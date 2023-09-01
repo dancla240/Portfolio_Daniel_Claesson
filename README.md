@@ -5,7 +5,7 @@ This is the portfolio where I plan to collect and store the most important thing
 ## GitHub Portfolio
 |Repo:                              |Description:                             |
 |-----------------------------------|-----------------------------------------|
-|[Python Programming][PythProg]     |Python, fundamentals, OOP, git, github   |
+|[Python Programming](https://github.com/dancla240/Python_Daniel_Claesson)    |Python, fundamentals, OOP, git, github   |
 
 
 [PythProg]:(https://github.com/dancla240/Python_Daniel_Claesson)
