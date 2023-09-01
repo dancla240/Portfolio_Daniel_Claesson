@@ -3,7 +3,7 @@
 This is the portfolio where I plan to collect and store the most important things I learn during my studies at IT-Högskolan, where I am studying AI and Machine Learning.
 
 ## GitHub Portfolio
-|Repo:                              |Description:                             |
+|Repo                               |Description                              |
 |-----------------------------------|-----------------------------------------|
 |[Python Programming](https://github.com/dancla240/Python_Daniel_Claesson)    |Python, fundamentals, OOP, git, github   |
 
